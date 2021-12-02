@@ -1,2 +1,2 @@
-# sutra--rdhva-tiryagbhy-_Implementaion
+# sutra--urdhva-tiryagbhy-_Implementaion
 Implementaion of Vadik Mathematic Sutra-ūrdhva tiryagbhyāṃ
